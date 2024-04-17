@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(33, 4, 4);
+   
+}
+h3{
+    display: flex;
+    justify-content: center;
+    color:darkgoldenrod;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 90px;
+    font-size: 40px;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    margin: 250px auto;
+    color: rgb(119, 255, 0);
+    border: 3px solid white;
+    border-radius: 20px;
+    width: 500px;
+    height: 100px;
+}
